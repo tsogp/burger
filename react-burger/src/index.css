@@ -1,0 +1,12 @@
+.main-window {
+  background-color: #000;
+  
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
